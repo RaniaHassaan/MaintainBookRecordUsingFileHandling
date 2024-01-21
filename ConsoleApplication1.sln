@@ -1,6 +1,6 @@
 ﻿
  
-	 #include<iostream>
+#include<iostream>
 #include<stdio.h>
 #include<fstream>
 #include<iomanip>
